@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kS41zN6/sfZOngd+3lRwD+TmklqYgj/v4xCA5kQqDju7IW7J+Db2X3HckLmWOYHD+GSqfpWp5eRKcYnx0zzfWw==",
+  "success": true,
+  "projectFilePath": "/Users/mohamadlawand/Desktop/work/youtube/v25/v25-AngularPart2/DemoApi/DemoApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/mohamadlawand/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mohamadlawand/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mohamadlawand/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/mohamadlawand/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/mohamadlawand/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/mohamadlawand/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
